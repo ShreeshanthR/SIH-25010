@@ -47,8 +47,8 @@ The Smart Crop Advisory System is a multilingual, AI-powered mobile app and chat
 
 ## Technical Approach
 <ul><li>The Smart Crop Advisory System will be developed using a combination of AI, machine learning, and mobile technologies to deliver personalized agricultural guidance. The backend will be built with Python and Django, integrating machine learning models (using TensorFlow or PyTorch) for crop recommendation and pest detection. Weather data will be fetched via APIs from reliable sources like IMD, while soil health inputs can be manually entered or sourced from local databases. The mobile app will be developed using Android Studio with Firebase for real-time data sync and user management. Natural Language Processing (NLP) will enable multilingual support, and voice interaction will be powered by speech-to-text and text-to-speech modules. A feedback loop will be embedded to refine recommendations based on user outcomes, ensuring continuous improvement and scalability.
-</b></li></ul>
 ![alt text](flowchart2.png)
+</b></li></ul>
 
 ## Feasibility and Viability
 <ul><li>
