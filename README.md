@@ -62,14 +62,19 @@ The Smart Crop Advisory System has the potential to transform the lives of small
 
 ## Research and References
 <ul><li>
+
 1. NABARD Report 2022 – Highlights that 86% of Indian farmers are small or marginal, underscoring the need for targeted digital solutions.
 https://www.nabard.org
+
 2. FAO ICT in Agriculture Study – Demonstrates how ICT-based advisories can improve crop yield by 20–30%.
 http://www.fao.org/ict-agriculture
+
 3. Indian Meteorological Department (IMD) – Provides weather APIs for real-time agricultural alerts.
 https://mausam.imd.gov.in
+
 4. IEEE Xplore & SpringerLink – Research papers on AI, machine learning, and computer vision applications in agriculture.
 https://ieeexplore.ieee.org
 https://link.springer.com
+
 5. AgriTech Startups in India – Case studies from platforms like KisanHub, CropIn, and DeHaat for reference on scalable advisory models.
 </li></ul>
